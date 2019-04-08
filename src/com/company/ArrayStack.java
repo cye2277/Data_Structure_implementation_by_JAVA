@@ -55,6 +55,6 @@ public class ArrayStack {
         arrayStack.push(new Employee("Bill","End",12543));
         arrayStack.printStack();
 
-        System.out.println(arrayStack.peek());
+        //System.out.println(arrayStack.peek());
     }
 }
